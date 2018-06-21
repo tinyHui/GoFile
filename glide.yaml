@@ -1,0 +1,8 @@
+package: github.com/tinyhui/GoFile
+import:
+- package: github.com/sirupsen/logrus
+  version: ~1.0.5
+- package: github.com/gin-gonic/gin
+  version: master
+- package: github.com/stretchr/testify
+  version: ~1.2.1

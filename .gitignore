@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+
+# Test binary, build with `go test -c`
+*.test
+
+# IDE
+.idea/
+
+# glide
+glide.lock
+vendor/
+
+
+# storage
+storage/
